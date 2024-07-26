@@ -1,3 +1,3 @@
 # Project1
 Using tailwind
-Created by Nikil Chauhan
+Created by Nikil Chauhan.
